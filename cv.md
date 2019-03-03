@@ -23,11 +23,10 @@ A junior web developer position with an IT company to use my skills in developin
    * Knowledge of PHP, MySQL, Python, C++;
 
 ## Code samples:
-    ```
     module.exports = function warmup(temperature) {
         return (parseFloat(temperature)*9/5) + 32;
     };
-    ```
+ 
 
 ## Experience:
   * SEO course by Artox 
@@ -35,12 +34,9 @@ A junior web developer position with an IT company to use my skills in developin
   * ReactJs Essentials video lessons
 
 ## Education:
-    Belarusian State University
-    Physics Faculty 
-    2003-2008
-    engineer
+   2003-2008, Belarusian State University, Physics Faculty.
 
 
 ## English level: 
   * Deep english learning in school 6 years (Murphy);
-  * Technical english in university for 4 years;
+  * Technical english in university for 4 years.
