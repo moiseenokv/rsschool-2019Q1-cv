@@ -19,13 +19,20 @@ A junior web developer position with an IT company to use my skills in developin
    * Skilled in web and database integration and developing web applications;
    * Quick learner and hard-working individual;
    * Excellent analytical, written and verbal communication skills;
-   * Knowledge of Dreamweaver, Photoshop, SQLYog, VS Code, MS Visual  Studio, ConEmu;
+   * Knowledge of Dreamweaver, Photoshop, SQLYog, VS Code, MS Visual Studio, ConEmu;
    * Knowledge of PHP, MySQL, Python, C++;
 
 ## Experience:
   * SEO course by Artox 
   * Node.js - video lessons
   * ReactJs Essentials video lessons
+
+## Education:
+    **Belarusian State University** 
+    Physics Faculty 
+    2003-2008
+    engineer
+
 
 ## English level: 
   * Deep english learning in school 6 years (Murphy);
