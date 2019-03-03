@@ -22,6 +22,13 @@ A junior web developer position with an IT company to use my skills in developin
    * Knowledge of Dreamweaver, Photoshop, SQLYog, VS Code, MS Visual Studio, ConEmu;
    * Knowledge of PHP, MySQL, Python, C++;
 
+## Code samples:
+    ```javascript
+    module.exports = function warmup(temperature) {
+        return (parseFloat(temperature)*9/5) + 32;
+    };
+    ```
+
 ## Experience:
   * SEO course by Artox 
   * Node.js - video lessons
