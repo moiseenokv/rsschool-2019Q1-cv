@@ -1,4 +1,4 @@
-# Maisiayonak Vitali
+# Vitali Maisiayonak
 
 ## Contacts:
   * Email: moiseenokv@gmail.com;
@@ -24,9 +24,11 @@ A junior web developer position with an IT company to use my skills in developin
 
 ## Code samples:
     ```javascript
+
     module.exports = function warmup(temperature) {
         return (parseFloat(temperature)*9/5) + 32;
     };
+
     ```
 
 ## Experience:
@@ -35,7 +37,7 @@ A junior web developer position with an IT company to use my skills in developin
   * ReactJs Essentials video lessons
 
 ## Education:
-    **Belarusian State University** 
+    ** Belarusian State University ** 
     Physics Faculty 
     2003-2008
     engineer
