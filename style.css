@@ -1,0 +1,19 @@
+*{
+margin:0;
+padding:0
+}
+
+header, main{
+    display: table;
+    margin:30px auto;
+    padding: 0 30px;
+}
+
+body {
+    background: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 960px;
+}
