@@ -4,9 +4,9 @@
 }
 
 body {
-  background: #222222;
   font-family: Arial, Helvetica, sans-serif;
   color: #444;
+  background: #222222;
 }
 
 p {
@@ -29,13 +29,13 @@ main {
 }
 
 header {
-  border-bottom: 2px solid #cf8a05;
   background: #ededed;
+  border-bottom: 2px solid #cf8a05;
 }
 
 .container.head {
-  padding: 16px 0 50px;
   position: relative;
+  padding: 16px 0 50px;
 }
 
 main {
@@ -43,26 +43,26 @@ main {
 }
 
 header img {
-  width: 128px;
   float: left;
-  border-radius: 50%;
+  width: 128px;
   margin: 0 24px 15px 0;
+  border-radius: 50%;
 }
 
 header h1 {
   position: absolute;
   top: 53px;
-  font-size: 35px;
   left: 155px;
+  font-size: 35px;
 }
 
 header ul {
   position: absolute;
   top: 32px;
   right: 30px;
+  font-style: italic;
   list-style: none;
   text-transform: lowercase;
-  font-style: italic;
 }
 
 header li {
@@ -71,8 +71,8 @@ header li {
 
 header a {
   padding: 0 0 0 4px;
-  text-decoration: none;
   color: #444;
+  text-decoration: none;
 }
 
 header a:hover {
@@ -81,38 +81,37 @@ header a:hover {
 
 
 .block {
-  border-bottom: 1px solid #dedede;
   float: left;
-  clear: both;
   padding: 15px 0;
+  border-bottom: 1px solid #dedede;
 }
 
-.left_half {
-  width: 300px;
+.left-half {
   float: left;
+  width: 300px;
 }
 
-.right_half {
+.right-half {
+  float: left;
   width: 600px;
   text-align: left;
-  float: left;
 }
 
-.left_half h2 {
+.left-half h2 {
+  font-style: italic;
   color: #cf8a05;
   font-weight: normal;
-  font-style: italic;
   text-decoration: underline;
 }
 
-.right_half>ul {
+.right-half>ul {
   margin: 0 0 0 17px;
 }
 
-.right_half li>ul {
+.right-half li>ul {
   margin: 6px 0 6px 19px;
 }
 
-.right_half ul>li {
+.right-half ul>li {
   margin: 6px 0;
 }
